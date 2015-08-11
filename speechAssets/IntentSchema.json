@@ -1,0 +1,47 @@
+{
+  "intents": [
+    {
+      "intent": "NewLeadsIntent",
+      "slots": []
+    },
+    {
+      "intent": "OpportunityStatusEvent",
+      "slots": [
+        {
+          "name": "OpportunityName",
+          "type": "LITERAL"
+        }
+      ]
+    },
+    {
+      "intent": "LeadStartIntent",
+      "slots": []
+    },
+    {
+     "intent": "LeadNameIntent",
+     "slots":[
+        {
+          "name": "Name",
+          "type": "LITERAL"
+        }
+      ]
+    },
+    {
+     "intent": "LeadCompanyIntent",
+     "slots":[
+        {
+          "name": "Company",
+          "type": "LITERAL"
+        }
+      ]
+    },
+    {
+      "intent": "MyCalendarIntent",
+      "slots": []
+    },
+    {
+      "intent": "HelpIntent",
+      "slots": []
+    }
+  ]
+ }

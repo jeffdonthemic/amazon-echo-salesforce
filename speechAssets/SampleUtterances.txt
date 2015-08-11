@@ -1,0 +1,35 @@
+NewLeadsIntent for any new leads
+NewLeadsIntent for my new leads
+
+OpportunityStatusEvent for opportunity {Jones|OpportunityName}
+OpportunityStatusEvent for opportunity {Edge S L A|OpportunityName}
+OpportunityStatusEvent for opportunity {United Oil Standby Generators|OpportunityName}
+
+LeadStartIntent to create a lead
+LeadStartIntent to create a new lead
+
+LeadNameIntent {Jeff Douglas|Name}
+LeadNameIntent {Steve Jones|Name}
+LeadNameIntent {Mike Smith|Name}
+LeadNameIntent {Mary Stewart|Name}
+
+LeadCompanyIntent {ACME Corp|Company}
+LeadCompanyIntent {ABC Company|Company}
+LeadCompanyIntent {Fresh Foods Packaging|Company}
+
+MyCalendarIntent for my calendar for today
+
+HelpIntent help
+HelpIntent help me
+HelpIntent what can I ask you
+HelpIntent get help
+HelpIntent what commands can I ask
+HelpIntent what commands can I say
+HelpIntent what can I do
+HelpIntent what can I use this for
+HelpIntent what questions can I ask
+HelpIntent what can you do
+HelpIntent what do you do
+HelpIntent how do I use you
+HelpIntent how can I use you
+HelpIntent what can you tell me
