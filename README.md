@@ -1,4 +1,4 @@
-# AWS Lambda function for Alexa & Salesfore
+# AWS Lambda function for Alexa & Salesforce
 A sample [AWS Lambda](http://aws.amazon.com/lambda) function that demonstrates the following use cases for Salesforce:
 
 * Create a new lead
